@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(75, 229, 229);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+p{
+    background-color: rgb(185, 135, 233);
+}
+button{
+    background-color:  pink;
+}
+input{
+    background-color: rgb(247, 247, 127);
+}
+#orden{
+    display: none;
+}
